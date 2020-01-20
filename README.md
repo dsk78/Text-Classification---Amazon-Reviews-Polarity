@@ -4,6 +4,7 @@
 
 ## Data collection
 Xiang Zhang (xiang.zhang@nyu.edu) constructed the Amazon reviews polarity dataset based on the Amazon reviews dataset by taking review score 1 and 2 as negative, and 4 and 5 as positive. Samples of score 3 is ignored. In the dataset, class 1 is the negative and class 2 is the positive. Each class has 1,800,000 training samples and 200,000 testing samples.
+The data is downloadable at this [link](https://s3.amazonaws.com/fast-ai-nlp/amazon_review_polarity_csv.tgz)
 
 ## Data preprocessing
 
